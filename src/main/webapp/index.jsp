@@ -18,7 +18,7 @@
     </div>
     <br>
     <rad
-    <label for="check">Remember Me</label>
+    <label for="check">Remember me</label>
     <input type="checkbox" id="check">
     <button style="color: green;">Sign In</button>
     <hr>
