@@ -14,7 +14,7 @@
     <br>
     <div>
         <label for="password">Password</label>
-        <input id="password" placeholder="rtfgyA^$5#1">
+        <input id="password" placeholder="1234512345">
     </div>
     <br>
     <rad
